@@ -142,7 +142,8 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-![crosshair](https://raw.githubusercontent.com/Snkeshri/Snkeshri/main/crosshair.svg)
+![Activity Overview](https://raw.githubusercontent.com/Snkeshri/Snkeshri/main/crosshair.svg#gh-dark-mode-only)
+![Activity Overview](https://raw.githubusercontent.com/Snkeshri/Snkeshri/main/crosshair.svg#gh-light-mode-only)
 
 </td>
 </tr></table>
