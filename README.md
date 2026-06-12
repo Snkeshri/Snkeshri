@@ -39,52 +39,62 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+ ## 🛠️ Tech Arsenal
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
-<b>Languages</b><br/>
-<img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+**Languages**<br/>
+<img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
+<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-363636?style=for-the-badge&logo=solidity&logoColor=white" height="35"/>
 
-<br/><br/>
+</td>
+<td align="center">
 
-<b>Frontend</b><br/>
-<img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+**Frontend**<br/>
+<img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35"/>
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="35"/>
 
-<br/><br/>
+</td>
+<td align="center">
 
-<b>Backend & Database</b><br/>
-<img src="https://img.shields.io/badge/-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+**Backend & DB**<br/>
+<img src="https://img.shields.io/badge/-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="35"/>
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="1">
 
-<b>AI / ML</b><br/>
-<img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+**AI / ML**<br/>
+<img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-121212?style=for-the-badge&logo=chainlink&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="35"/>
 
-<br/><br/>
+</td>
+<td align="center" colspan="2">
 
-<b>Web3 & Cloud</b><br/>
-<img src="https://img.shields.io/badge/-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-E2761B?style=for-the-badge&logo=metamask&logoColor=white" />
-<img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" />
+**Web3 & Cloud**<br/>
+<img src="https://img.shields.io/badge/-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-E2761B?style=for-the-badge&logo=metamask&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" height="35"/>
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
