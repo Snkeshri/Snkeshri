@@ -40,7 +40,9 @@
 ---
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="50%">
 
 **Languages**
 <br/>
@@ -50,6 +52,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
+</td>
+<td align="center" width="50%">
+
 **Frontend**
 <br/>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -57,12 +62,20 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
 **Backend & Database**
 <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td align="center" width="50%">
 
 **AI / ML**
 <br/>
@@ -72,6 +85,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
 **Web3 & Cloud**
 <br/>
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
@@ -80,7 +98,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+</td>
+<td align="center" width="50%">
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🏆 Competitive Programming
