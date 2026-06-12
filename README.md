@@ -204,11 +204,14 @@ sunnykumarescc
 
 ---
 
-### 🎖️ Roles & Recognition
+### 🏅 Roles & Recognition
 
-![MLSA](https://img.shields.io/badge/Microsoft_Learn_Student_Ambassador-FFA500?style=for-the-badge&logo=microsoft&logoColor=white)
-![GSA](https://img.shields.io/badge/Google_Student_Ambassador_'26-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GDG](https://img.shields.io/badge/GDG_Co--Organizer_%7C_Tech_Lead-34A853?style=for-the-badge&logo=googledevelopers&logoColor=white)
+<p align="center">
+<a href="PASTE_MLSA_PROFILE_URL"><img src="https://img.shields.io/badge/Microsoft_Learn_Student_Ambassador-FFA500?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+<a href="PASTE_GSA26_PROFILE_URL"><img src="https://img.shields.io/badge/Google_Student_Ambassador_'26-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="PASTE_GDG_CHAPTER_URL"><img src="https://img.shields.io/badge/GDG_Co--Organizer_%7C_Tech_Lead-34A853?style=for-the-badge&logo=googledevelopers&logoColor=white" /></a>
+<a href="PASTE_SFUG_PATNA_URL"><img src="https://img.shields.io/badge/Salesforce_User_Group_Patna_%7C_Core_Team-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -223,14 +226,14 @@ sunnykumarescc
 ### 🌐 Connect & Hire Me
 
 <p align="center">
-<a href="https://linkedin.com/in/sunny-kumar-a06484297"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Snkeshri"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:sunnnykumar98213845@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://youtube.com/@TechWithSunny90"><img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://leetcode.com/Sunnyajit"><img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://twitter.com/TechLeet"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://instagram.com/sunny.agrwl_sde"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://instagram.com/upskillyfy"><img src="https://img.shields.io/badge/-833AB4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="PASTE_LINKEDIN_URL"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="PASTE_GITHUB_URL"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="PASTE_GMAIL_URL"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="PASTE_YOUTUBE_URL"><img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="PASTE_LEETCODE_URL"><img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="PASTE_TWITTER_URL"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="PASTE_INSTAGRAM_PERSONAL_URL"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="PASTE_INSTAGRAM_UPSKILLYFY_URL"><img src="https://img.shields.io/badge/-833AB4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="center">
