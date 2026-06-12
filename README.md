@@ -152,73 +152,78 @@ sunnykumarescc
 </div>
 
 ---
+## 🚀 Currently Exploring
 
-### 🚀 Currently Exploring
-
-<table width="100%"><tr>
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
-🧠 **LLMs & Gemini API**
-![86%](https://img.shields.io/badge/86%25-7c3aed?style=flat-square) `████████░░`
+🧠 **LLMs & Gemini API** — `86%`
+`█████████░`
 
-🤖 **ML Fundamentals**
-![70%](https://img.shields.io/badge/70%25-2563eb?style=flat-square) `███████░░░`
+🤖 **ML Fundamentals** — `70%`
+`███████░░░`
 
-🦾 **AI Agents**
-![65%](https://img.shields.io/badge/65%25-059669?style=flat-square) `██████░░░░`
+🦾 **AI Agents** — `65%`
+`██████░░░░`
 
-☁️ **Cloud & DevOps**
-![50%](https://img.shields.io/badge/50%25-0891b2?style=flat-square) `█████░░░░░`
+☁️ **Cloud & DevOps** — `50%`
+`█████░░░░░`
 
 </td>
 <td width="50%" valign="top">
 
-🔍 **Vector DBs & RAG**
-![42%](https://img.shields.io/badge/42%25-d97706?style=flat-square) `████░░░░░░`
+🔍 **Vector DBs & RAG** — `42%`
+`████░░░░░░`
 
-🎨 **System Design**
-![40%](https://img.shields.io/badge/40%25-dc2626?style=flat-square) `████░░░░░░`
+🎨 **System Design** — `40%`
+`████░░░░░░`
 
-🧬 **Deep Learning**
-![38%](https://img.shields.io/badge/38%25-7c3aed?style=flat-square) `███░░░░░░░`
+🧬 **Deep Learning** — `38%`
+`███░░░░░░░`
 
-⛓️ **Web3 / Blockchain**
-![35%](https://img.shields.io/badge/35%25-2563eb?style=flat-square) `███░░░░░░░`
+⛓️ **Web3 / Blockchain** — `35%`
+`███░░░░░░░`
 
 </td>
-</tr></table>
+</tr>
+</table>
 
 ---
 
-### 🎯 Goals & Roadmap
+## 💼 Why Hire Me?
 
-<table width="100%"><tr>
-<td width="33%" valign="top">
+<table width="100%">
+<tr>
+<td align="center" width="33%">
 
-**✅ Done**
-- [x] Full MERN stack projects
-- [x] AI Agent with Gemini API
-- [x] Join GDG as co-organizer
-
-</td>
-<td width="33%" valign="top">
-
-**🔄 In Progress**
-- [ ] 500+ LeetCode problems
-- [ ] Master Next.js & TypeScript
-- [ ] RAG pipelines & AI agents
-- [ ] Solidity smart contract dApp
+### ⚡ Fast Learner
+Self-taught MERN, AI Agents & RAG pipelines within months — ships production-ready code fast.
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
-**🎯 Target**
-- [ ] SDE internship at MNC
-- [ ] Production-grade ML model
-- [ ] Web3 dApp on testnet
+### 🏆 Proven Skills
+**500+ LeetCode (Top 5%)** · 6+ shipped projects across Web, AI/ML & Web3.
 
 </td>
-</tr></table>
+<td align="center" width="33%">
+
+### 🤝 Leadership
+Tech Lead @ GDG BCE Patna — leading workshops & mentoring 100+ students.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🟢 Actively seeking SDE / AI-ML Internship & Full-time opportunities
+
+[![Email Me](https://img.shields.io/badge/Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnnykumar98213845@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Hire_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-kumar-a06484297)
+
+</div>>
 
 ---
 
