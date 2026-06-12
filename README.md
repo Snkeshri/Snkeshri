@@ -1,7 +1,16 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Sunny%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SDE%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Web3%20Explorer%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Community%20Leader&descAlignY=58&descSize=14&descColor=a0c4ff"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1.2k-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/SunnyAgr) [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Work-brightgreen?style=flat-square)](#) [![Resume](https://img.shields.io/badge/%F0%9F%93%84-Resume-orange?style=flat-square)](#) [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Lv4-ff6600?style=flat-square&logo=hackaday)](https://github.com/Snkeshri) [![GSSoC](https://img.shields.io/badge/GSSoC-Active-2ea44f?style=flat-square)](https://github.com/Snkeshri) [![LeetCode](https://img.shields.io/badge/LeetCode-Top%205%25-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/Sunnyajit)
+## Hello World, I'm Sunny 👋
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Snkeshri&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Snkeshri)&nbsp;
+[![followers](https://img.shields.io/github/followers/Snkeshri?label=Followers&style=social)](https://github.com/Snkeshri?tab=followers)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1.2k-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sunny-kumar-a06484297)&nbsp;
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Work-brightgreen?style=flat-square)](#)&nbsp;
+[![Resume](https://img.shields.io/badge/%F0%9F%93%84-Resume-orange?style=flat-square)](#)&nbsp;
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Lv4-ff6600?style=flat-square&logo=hackaday)](https://holopin.io/@sunnyajit)&nbsp;
+[![GSSoC](https://img.shields.io/badge/GSSoC-Active-2ea44f?style=flat-square)](https://github.com/Snkeshri)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top%205%25-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/Sunnyajit)
 
 ### 🎖️ Holopin Badges
 [![@sunnyajit's Holopin board](https://holopin.me/sunnyajit)](https://holopin.io/@sunnyajit)
@@ -180,4 +189,3 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer&text=Open%20to%20SDE%20Internship%20%26%20Full-time%20Roles&fontSize=16&fontColor=a0c4ff&animation=fadeIn"/>
 </div>
-
