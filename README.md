@@ -150,6 +150,12 @@
 
 ---
 
+### 🎖️ Holopin Badges
+
+[![@sunnyajit's Holopin board](https://holopin.me/sunnyajit)](https://holopin.io/@sunnyajit)
+
+---
+
 ### 🏅 Achievements &nbsp;·&nbsp; 🌐 Connect
 
 <table width="100%"><tr>
