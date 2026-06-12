@@ -38,6 +38,7 @@
 </tr></table>
 
 ---
+
 ## 🛠️ Tech Arsenal
 
 <table width="100%">
@@ -88,7 +89,7 @@
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" colspan="2">
 
 **Web3 & Cloud**
 <br/>
@@ -99,11 +100,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
-<td align="center" width="50%">
-
-</td>
 </tr>
 </table>
+
 ---
 
 ## 🏆 Competitive Programming
@@ -152,80 +151,6 @@ sunnykumarescc
 </div>
 
 ---
-## 🚀 Currently Exploring
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-🧠 **LLMs & Gemini API** — `86%`
-`█████████░`
-
-🤖 **ML Fundamentals** — `70%`
-`███████░░░`
-
-🦾 **AI Agents** — `65%`
-`██████░░░░`
-
-☁️ **Cloud & DevOps** — `50%`
-`█████░░░░░`
-
-</td>
-<td width="50%" valign="top">
-
-🔍 **Vector DBs & RAG** — `42%`
-`████░░░░░░`
-
-🎨 **System Design** — `40%`
-`████░░░░░░`
-
-🧬 **Deep Learning** — `38%`
-`███░░░░░░░`
-
-⛓️ **Web3 / Blockchain** — `35%`
-`███░░░░░░░`
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Why Hire Me?
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-
-### ⚡ Fast Learner
-Self-taught MERN, AI Agents & RAG pipelines within months — ships production-ready code fast.
-
-</td>
-<td align="center" width="33%">
-
-### 🏆 Proven Skills
-**500+ LeetCode (Top 5%)** · 6+ shipped projects across Web, AI/ML & Web3.
-
-</td>
-<td align="center" width="33%">
-
-### 🤝 Leadership
-Tech Lead @ GDG BCE Patna — leading workshops & mentoring 100+ students.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🟢 Actively seeking SDE / AI-ML Internship & Full-time opportunities
-
-[![Email Me](https://img.shields.io/badge/Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnnykumar98213845@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Hire_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-kumar-a06484297)
-
-</div>>
-
----
 
 ### 📈 Contribution Activity
 
@@ -245,10 +170,36 @@ Tech Lead @ GDG BCE Patna — leading workshops & mentoring 100+ students.
 
 ---
 
-### 🏅 Achievements &nbsp;·&nbsp; 🌐 Connect
+## 📊 Snapshot
 
-<table width="100%"><tr>
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
+
+### 🔥 Currently Exploring
+🧠 LLMs & Gemini API `86%`
+`█████████░`
+
+🤖 ML Fundamentals `70%`
+`███████░░░`
+
+🦾 AI Agents `65%`
+`██████░░░░`
+
+🔍 Vector DBs & RAG `42%`
+`████░░░░░░`
+
+<br/>
+
+### 💼 Why Hire Me
+⚡ **Fast Learner** — self-taught MERN, AI Agents & RAG in months
+🏆 **500+ LeetCode** (Top 5%) · 6+ shipped projects
+🤝 **Leadership** — Tech Lead @ GDG, mentoring 100+ students
+
+</td>
+<td width="50%" valign="top">
+
+### 🏅 Achievements
 
 | | |
 |---|---|
@@ -259,17 +210,26 @@ Tech Lead @ GDG BCE Patna — leading workshops & mentoring 100+ students.
 | 🟢 GDG | Co-Organizer, BCE Patna |
 | 📊 CGPA | **8.21** |
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SunnyAgr) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snkeshri)<br/><br/>
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TechWithSunny90) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sunnyajit)<br/><br/>
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TechLeet) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnnykumar98213845@gmail.com)
+### 🌐 Connect & Hire Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-kumar-a06484297)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snkeshri)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnnykumar98213845@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TechWithSunny90)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sunnyajit)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TechLeet)
 
 </td>
-</tr></table>
+</tr>
+</table>
 
 <div align="center">
+
+### 🟢 Actively seeking SDE / AI-ML Internship & Full-time opportunities
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer&text=Open%20to%20SDE%20Internship%20%26%20Full-time%20Roles&fontSize=16&fontColor=a0c4ff&animation=fadeIn"/>
 </div>
-
