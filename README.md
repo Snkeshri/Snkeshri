@@ -39,42 +39,95 @@
 
 ---
 
-### 🧠 Skills &nbsp;·&nbsp; 🛠️ Stack &nbsp;·&nbsp; 🏆 CP
+## 🛠️ Skills, Stack & Competitive Programming
 
-<table width="100%"><tr>
-<td width="50%" valign="top">
+<table width="100%">
+<tr>
 
-**Skills**
-| Domain | Highlights |
-|---|---|
-| 🤖 AI/ML | Gemini API, RAG, LLMs, AI Agents |
-| 🌐 Web3 | Solidity, Ethereum, dApps, Wallets |
-| 🖥️ Full-Stack | MERN, Next.js, TypeScript, Tailwind |
-| ☁️ Cloud | GCP, Docker, CI/CD, GitHub Actions |
-| 🤝 Community | MLSA, GDG Co-Org, 7k+ LinkedIn |
+<td width="25%" valign="top">
 
-**Languages & Frontend**<br/>
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### 🤖 AI / ML
+- Gemini API & RAG
+- LLMs & Fine-tuning
+- AI Agents
+- Prompt Engineering
 
-</td>
-<td width="50%" valign="top">
+### 🌐 Web3
+- Solidity & Smart Contracts
+- Ethereum & dApps
+- DeFi & NFT Standards
+- MetaMask & Wallets
 
-**Backend, AI/ML & Cloud**<br/>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)<br/>
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)<br/>
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square) ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white)
-
-**Competitive Programming**
-| Platform | Handle | Stats |
-|---|---|---|
-| 🟡 LeetCode | Sunnyajit | 500+ · **1783** · Top 5% |
-| 🟢 CodeChef | sunnyagrwal | ⭐⭐⭐ · **1635** |
-| 🔵 Codeforces | sunajit | Rated |
-| 🟠 GFG | sunnykumarescc | Active |
+### 🖥️ Full-Stack
+- MERN Stack
+- Next.js & TypeScript
+- Tailwind CSS
+- REST APIs & Vercel
 
 </td>
-</tr></table>
+
+<td width="25%" valign="top">
+
+### ☁️ Cloud & DevOps
+- Google Cloud Platform
+- Docker & CI/CD
+- GitHub Actions
+- Serverless & Vercel
+
+### 🤝 Community
+- MLSA @ Microsoft
+- GDG Co-Org, BCE Patna
+- GSoC Contributor
+- 7k+ LinkedIn
+
+### 🏆 Competitive Programming
+| | Platform | Rating |
+|--|--|--|
+| 🟡 | LeetCode | **1783** · Top 5% |
+| 🟢 | CodeChef | ⭐⭐⭐ **1635** |
+| 🔵 | Codeforces | Rated |
+| 🟠 | GFG | Active |
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Tech Stack
+
+**Languages**<br/>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+**Frontend**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**<br/>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI / ML Tools**<br/>
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logoColor=white)
+
+**Web3 & Cloud**<br/>
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -192,3 +245,5 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer&text=Open%20to%20SDE%20Internship%20%26%20Full-time%20Roles&fontSize=16&fontColor=a0c4ff&animation=fadeIn"/>
 </div>
+
+ 
