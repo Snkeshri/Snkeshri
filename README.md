@@ -1,8 +1,6 @@
 <div align="center">
 
-## Hello World, I'm Sunny 👋
-
-**Full-Stack SDE &nbsp;•&nbsp; AI/ML Engineer &nbsp;•&nbsp; Web3 Explorer &nbsp;•&nbsp; Open Source Contributor &nbsp;•&nbsp; Community Leader**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Hello%2C%20I'm%20Sunny%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20SDE%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Web3%20Explorer%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Community%20Leader&descAlignY=58&descSize=14&descColor=a0c4ff"/>
 
 <br/>
 
