@@ -174,7 +174,7 @@ sunnykumarescc
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🔥 Currently Exploring
 🧠 LLMs & Gemini API `86%`
@@ -189,47 +189,54 @@ sunnykumarescc
 🔍 Vector DBs & RAG `42%`
 `████░░░░░░`
 
-<br/>
-
-### 💼 Why Hire Me
-⚡ **Fast Learner** — self-taught MERN, AI Agents & RAG in months
-🏆 **500+ LeetCode** (Top 5%) · 6+ shipped projects
-🤝 **Leadership** — Tech Lead @ GDG, mentoring 100+ students
-
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### 🏅 Achievements
-
-| | |
-|---|---|
-| 🟡 LeetCode | 500+ Problems · Top 5% |
-| 🟢 GSSoC | Active Contributor |
-| 🟠 Hacktoberfest | **Level 4** |
-| 🔵 GSA'26 | Google Student Ambassador |
-| 🟢 GDG | Co-Organizer, BCE Patna |
-| 📊 CGPA | **8.21** |
-
-<br/>
-
-### 🌐 Connect & Hire Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-kumar-a06484297)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snkeshri)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnnykumar98213845@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TechWithSunny90)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sunnyajit)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TechLeet)
+### 🏆 Highlights
+🟢 **GSSoC** — Active Contributor
+🟠 **Hacktoberfest** — Level 4
+📊 **CGPA** — 8.21
+🎓 **B.Tech CSE** — Graduating 2027
 
 </td>
 </tr>
 </table>
+
+---
+
+### 🎖️ Roles & Recognition
+
+![MLSA](https://img.shields.io/badge/Microsoft_Learn_Student_Ambassador-FFA500?style=for-the-badge&logo=microsoft&logoColor=white)
+![GSA](https://img.shields.io/badge/Google_Student_Ambassador_'26-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GDG](https://img.shields.io/badge/GDG_Co--Organizer_%7C_Tech_Lead-34A853?style=for-the-badge&logo=googledevelopers&logoColor=white)
+
+---
+
+## 💼 Why Hire Me?
+
+⚡ **Fast Learner** — self-taught MERN, AI Agents & RAG pipelines in months
+🛠️ **Hands-on Builder** — shipped projects across Web, AI/ML & Web3
+🤝 **Leadership** — Tech Lead @ GDG, mentoring 100+ students
+
+---
+
+### 🌐 Connect & Hire Me
+
+<p align="center">
+<a href="https://linkedin.com/in/sunny-kumar-a06484297"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Snkeshri"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:sunnnykumar98213845@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://youtube.com/@TechWithSunny90"><img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://leetcode.com/Sunnyajit"><img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://twitter.com/TechLeet"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/sunny.agrwl_sde"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/upskillyfy"><img src="https://img.shields.io/badge/-833AB4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 <div align="center">
 
 ### 🟢 Actively seeking SDE / AI-ML Internship & Full-time opportunities
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer&text=Open%20to%20SDE%20Internship%20%26%20Full-time%20Roles&fontSize=16&fontColor=a0c4ff&animation=fadeIn"/>
+
 </div>
