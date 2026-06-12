@@ -64,11 +64,7 @@
 
 
 
-
-
-
-
- ## 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <table align="center">
 <tr>
