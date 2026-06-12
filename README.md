@@ -3,6 +3,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1.2k-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/SunnyAgr) [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Work-brightgreen?style=flat-square)](#) [![Resume](https://img.shields.io/badge/%F0%9F%93%84-Resume-orange?style=flat-square)](#) [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Lv4-ff6600?style=flat-square&logo=hackaday)](https://github.com/Snkeshri) [![GSSoC](https://img.shields.io/badge/GSSoC-Active-2ea44f?style=flat-square)](https://github.com/Snkeshri) [![LeetCode](https://img.shields.io/badge/LeetCode-Top%205%25-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/Sunnyajit)
 
+### 🎖️ Holopin Badges
+[![@sunnyajit's Holopin board](https://holopin.me/sunnyajit)](https://holopin.io/@sunnyajit)
+
 </div>
 
 ---
@@ -150,12 +153,6 @@
 
 ---
 
-### 🎖️ Holopin Badges
-
-[![@sunnyajit's Holopin board](https://holopin.me/sunnyajit)](https://holopin.io/@sunnyajit)
-
----
-
 ### 🏅 Achievements &nbsp;·&nbsp; 🌐 Connect
 
 <table width="100%"><tr>
@@ -183,3 +180,4 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer&text=Open%20to%20SDE%20Internship%20%26%20Full-time%20Roles&fontSize=16&fontColor=a0c4ff&animation=fadeIn"/>
 </div>
+
