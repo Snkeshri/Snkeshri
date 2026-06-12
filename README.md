@@ -40,6 +40,18 @@
 ---
 
 
+
+### 🏅 Roles & Recognition
+
+<p align="center">
+<a href="PASTE_MLSA_PROFILE_URL"><img src="https://img.shields.io/badge/Microsoft_Learn_Student_Ambassador-FFA500?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+<a href="PASTE_GSA26_PROFILE_URL"><img src="https://img.shields.io/badge/Google_Student_Ambassador_'26-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="PASTE_GDG_CHAPTER_URL"><img src="https://img.shields.io/badge/GDG_Co--Organizer_%7C_Tech_Lead-34A853?style=for-the-badge&logo=googledevelopers&logoColor=white" /></a>
+<a href="PASTE_GDG_PATNA_URL"><img src="https://img.shields.io/badge/GDG_Patna_%7C_Tech_Core_Team-EA4335?style=for-the-badge&logo=googledevelopers&logoColor=white" /></a>
+<a href="PASTE_SFUG_PATNA_URL"><img src="https://img.shields.io/badge/Salesforce_User_Group_Patna_%7C_Core_Team-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+</p>
+
+
 -------
 
 ### 📈 Contribution Activity
@@ -167,24 +179,6 @@ sunnykumarescc
 > 🎯 **Max LeetCode: 1783 · Top 5% Globally · 500+ Problems Solved**
 
 </div>
-
----
-
-### 📈 Contribution Activity
-
-<table width="100%"><tr>
-<td width="60%" valign="top">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snkeshri&theme=tokyo-night&hide_border=true&area=true&bg_color=161b22&color=58a6ff&line=39d353&point=39d353&custom_title=Commits%20%7C%20PRs%20%7C%20Issues%20%7C%20Code%20Review)
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-![Activity Overview](https://raw.githubusercontent.com/Snkeshri/Snkeshri/main/crosshair.svg#gh-dark-mode-only)
-![Activity Overview](https://raw.githubusercontent.com/Snkeshri/Snkeshri/main/crosshair.svg#gh-light-mode-only)
-
-</td>
-</tr></table>
 
 ---
 
