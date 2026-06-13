@@ -52,6 +52,55 @@
 </p>
 
 -------
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,solidity&theme=dark" height="70"/>
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css&theme=dark" height="70"/>
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" height="70"/>
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" height="70"/>
+</p>
+
+### ☁️ Cloud / DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,bash&theme=dark" height="70"/>
+</p>
+
+### ⛓️ Web3
+<p>
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" height="70"/>
+<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white"/>
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+--------
 
 
  ## 🛠️ Tech Stack
