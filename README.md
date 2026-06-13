@@ -193,6 +193,59 @@ sunnykumarescc
 </td>
 </tr></table>
 
+
+
+------------
+## 🌐 Connect & Hire Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br><br>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/📄_Resume-FF6B35?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_UPSKILLYFY_URL">
+<img src="https://img.shields.io/badge/Upskillyfy-6C63FF?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="YOUR_X_URL">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🟢 Open for SDE • AI/ML • Open Source • Community Collaborations
+
+</div>
+
+---------
+
 -------
 
 ### 🟢 Actively seeking SDE / AI-ML Internship & Full-time opportunities
