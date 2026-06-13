@@ -52,22 +52,17 @@
 </p>
 
 -------
-## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Frontend
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nextjs,tailwind,ts,html,css&theme=dark" />
+### 💻 Development Stack
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,solidity,react,nextjs,tailwind,ts,html,css,nodejs,express,mongodb,postgres,firebase&theme=dark" />
 
-<br>
+<br><br>
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" />
-
-<br>
-
-### 🤖 AI • Cloud • DevOps • Web3
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,gcp,docker,git,github,linux,solidity&theme=dark" />
+### ☁️ AI • Cloud • DevOps
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,gcp,docker,git,github,linux&theme=dark" />
 
 </div>
 
