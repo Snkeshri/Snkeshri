@@ -118,39 +118,38 @@ sunnykumarescc
 </div>
 
 ---
+ ## 📊 Snapshot
 
-## 📊 Snapshot
-
-<table width="100%">
+<table align="center">
 <tr>
-<td width="60%" valign="top">
+
+<td width="50%" valign="top">
 
 ### 🔥 Currently Exploring
-🧠 LLMs & Gemini API `86%`
-`█████████░`
 
-🤖 ML Fundamentals `70%`
-`███████░░░`
-
-🦾 AI Agents `65%`
-`██████░░░░`
-
-🔍 Vector DBs & RAG `42%`
-`████░░░░░░`
+| Technology | Progress |
+|------------|----------|
+| 🧠 LLMs & Gemini API | █████████░ 86% |
+| 🤖 ML Fundamentals | ███████░░░ 70% |
+| 🦾 AI Agents | ██████░░░░ 65% |
+| 🔍 Vector DBs & RAG | ████░░░░░░ 42% |
 
 </td>
-<td width="40%" valign="top">
+
+<td width="50%" valign="top">
 
 ### 🏆 Highlights
-🟢 **GSSoC** — Active Contributor
-🟠 **Hacktoberfest** — Level 4
-📊 **CGPA** — 8.21
-🎓 **B.Tech CSE** — Graduating 2027
+
+- 🟢 **GSSoC Contributor**
+- 🟠 **Hacktoberfest Level 4**
+- 📊 **CGPA: 8.21**
+- 🎓 **B.Tech CSE (2027)**
+- 🌱 **Open Source Enthusiast**
 
 </td>
+
 </tr>
 </table>
-
 -------
 
 ## 💼 Why Hire Me?
