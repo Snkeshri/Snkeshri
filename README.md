@@ -56,20 +56,18 @@
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python,solidity&theme=dark" />
+### 💻 Languages & Frontend
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nextjs,tailwind,ts,html,css&theme=dark" />
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css&theme=dark" />
+<br>
 
 ### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" />
 
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+<br>
 
-### ☁️ Cloud / DevOps
-<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux&theme=dark" />
+### 🤖 AI • Cloud • DevOps • Web3
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,gcp,docker,git,github,linux,solidity&theme=dark" />
 
 </div>
 
