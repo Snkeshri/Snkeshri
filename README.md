@@ -163,9 +163,14 @@ sunnykumarescc
 <div align="center">
 
 
-## 🌐 Connect & Hire Me
+
+
+----------
+ ## 🌐 Connect & Hire Me
 
 <div align="center">
+
+<!-- Personal Links -->
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -185,20 +190,34 @@ sunnykumarescc
 
 <br><br>
 
+<!-- Resume + Social -->
+
 <a href="YOUR_RESUME_LINK">
 <img src="https://img.shields.io/badge/📄_Resume-FF6B35?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_UPSKILLYFY_URL">
-<img src="https://img.shields.io/badge/Upskillyfy-6C63FF?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="YOUR_FACEBOOK_URL">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="YOUR_X_URL">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br><br>
+
+<!-- Upskillyfy -->
+
+<img src="https://img.shields.io/badge/🚀_Upskillyfy-6C63FF?style=for-the-badge"/>
+
+<br><br>
+
+<a href="YOUR_UPSKILLYFY_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram_Upskillyfy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="YOUR_UPSKILLYFY_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn_Upskillyfy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -207,7 +226,15 @@ sunnykumarescc
 
 <div align="center">
 
+### 🟢 Open for SDE • AI/ML • Open Source • Community Collaborations
+
+</div>
+
+<div align="center">
+
 --------
+
+
 
 
 --------
