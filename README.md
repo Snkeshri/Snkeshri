@@ -158,44 +158,11 @@ sunnykumarescc
 🛠️ **Hands-on Builder** — shipped projects across Web, AI/ML & Web3
 🤝 **Leadership** — Tech Lead @ GDG, mentoring 100+ students
 
----
-
-### 🌐 Connect & Hire Me
-
-<p align="center">
-<a href="PASTE_LINKEDIN_URL"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="PASTE_GITHUB_URL"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="PASTE_GMAIL_URL"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="PASTE_YOUTUBE_URL"><img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="PASTE_LEETCODE_URL"><img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="PASTE_TWITTER_URL"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="PASTE_INSTAGRAM_PERSONAL_URL"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="PASTE_INSTAGRAM_UPSKILLYFY_URL"><img src="https://img.shields.io/badge/-833AB4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+ --------
 
 <div align="center">
 
---------
 
-### 📈 Contribution Activity
-
-<table width="100%"><tr>
-<td width="60%" valign="top">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snkeshri&theme=tokyo-night&hide_border=true&area=true&bg_color=161b22&color=58a6ff&line=39d353&point=39d353&custom_title=Commits%20%7C%20PRs%20%7C%20Issues%20%7C%20Code%20Review)
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-![Activity Overview](https://raw.githubusercontent.com/Snkeshri/Snkeshri/main/crosshair.svg#gh-dark-mode-only)
-![Activity Overview](https://raw.githubusercontent.com/Snkeshri/Snkeshri/main/crosshair.svg#gh-light-mode-only)
-
-</td>
-</tr></table>
-
-
-
-------------
 ## 🌐 Connect & Hire Me
 
 <div align="center">
@@ -240,10 +207,32 @@ sunnykumarescc
 
 <div align="center">
 
+ --------
+--------
+
+### 📈 Contribution Activity
+
+<table width="100%"><tr>
+<td width="60%" valign="top">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snkeshri&theme=tokyo-night&hide_border=true&area=true&bg_color=161b22&color=58a6ff&line=39d353&point=39d353&custom_title=Commits%20%7C%20PRs%20%7C%20Issues%20%7C%20Code%20Review)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+![Activity Overview](https://raw.githubusercontent.com/Snkeshri/Snkeshri/main/crosshair.svg#gh-dark-mode-only)
+![Activity Overview](https://raw.githubusercontent.com/Snkeshri/Snkeshri/main/crosshair.svg#gh-light-mode-only)
+
+</td>
+</tr></table>
+
+
+
+------------
+ 
+
 ### 🟢 Open for SDE • AI/ML • Open Source • Community Collaborations
 
 </div>
-
----------
-
-</div>
+ 
+ 
