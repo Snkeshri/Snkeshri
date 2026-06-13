@@ -246,10 +246,4 @@ sunnykumarescc
 
 ---------
 
--------
-
-### 🟢 Actively seeking SDE / AI-ML Internship & Full-time opportunities
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer&text=Open%20to%20SDE%20Internship%20%26%20Full-time%20Roles&fontSize=16&fontColor=a0c4ff&animation=fadeIn"/>
-
 </div>
